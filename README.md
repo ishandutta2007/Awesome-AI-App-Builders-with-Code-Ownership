@@ -23,13 +23,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (AI App Builders with Code Ownership)
 
-| Platform | Description | Pricing | Free Tier Limit |
-| :--- | :--- | :--- | :--- |
-| **[Lovable](https://lovable.dev/)** | AI app builder that generates full applications with complete code ownership and export options. | Pro: $25/mo, Business: $50/mo, Enterprise: Custom | 5 build credits/day (30/mo) & 20 Cloud credits/mo |
-| **[Bolt.new](https://bolt.new/)** | Fast AI-powered app creation tool with full code access and deployment flexibility. | Pro: ~$25/mo, Teams: ~$30/user/mo, Enterprise: Custom | 1M tokens/mo (300K daily limit) |
-| **[Fabricate](https://fabricate.dev/)** | Intelligent AI platform for building production-ready apps with developer ownership. | Paid plans based on credits (Pro, Scale) | 60 credits/mo |
-| **[Replit](https://replit.com/)** | Collaborative coding platform with strong AI features and full code ownership. | Core: $20/mo, Pro: $100/mo | Online IDE & daily allowance of Agent credits |
-| **[Base44](https://base44.com/)** | AI app builder focused on clean, exportable code for web and mobile applications. | Starter: $20/mo, Builder: $50/mo, Pro: $100/mo, Elite: $200/mo | 25 message credits/mo |
+| Platform | Description | Pricing | Free Tier Limit | Valuation/Size |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Replit](https://replit.com/)** | Collaborative coding platform with strong AI features and full code ownership. | Core: $20/mo, Pro: $100/mo | Online IDE & daily allowance of Agent credits | $9B |
+| **[Lovable](https://lovable.dev/)** | AI app builder that generates full applications with complete code ownership and export options. | Pro: $25/mo, Business: $50/mo, Enterprise: Custom | 5 build credits/day (30/mo) & 20 Cloud credits/mo | $6.6B |
+| **[Bolt.new](https://bolt.new/)** | Fast AI-powered app creation tool with full code access and deployment flexibility. | Pro: ~$25/mo, Teams: ~$30/user/mo, Enterprise: Custom | 1M tokens/mo (300K daily limit) | $700M |
+| **[Fabricate](https://fabricate.dev/)** | Intelligent AI platform for building production-ready apps with developer ownership. | Paid plans based on credits (Pro, Scale) | 60 credits/mo | Early Stage |
+| **[Base44](https://base44.com/)** | AI app builder focused on clean, exportable code for web and mobile applications. | Starter: $20/mo, Builder: $50/mo, Pro: $100/mo, Elite: $200/mo | 25 message credits/mo | Early Stage |
 
 ### Advanced & Specialized Platforms
 
