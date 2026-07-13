@@ -1,4 +1,9 @@
 # Awesome-AI-App-Builders-with-Code-Ownership
+
+<div align="center">
+  <img src="./assets/banner.svg" alt="Awesome AI App Builders Banner" width="100%" />
+</div>
+
 ## Top AI App Builders with Code Ownership Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
