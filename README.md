@@ -39,41 +39,41 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated AI App Builder Projects
 
-- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)**  
-  Open-source autonomous AI software engineer capable of building full applications from natural language with complete code ownership.
+- **[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social&color=white)](https://github.com/Significant-Gravitas/Auto-GPT/stargazers) (and modern forks)  
+  Autonomous AI agent framework for building applications with complete code ownership.
 
-- **[Aider](https://github.com/paul-gauthier/aider)**  
-  Command-line AI coding assistant that works with local codebases and gives full ownership of generated code.
-
-- **[Continue](https://github.com/continuedev/continue)**  
-  Open-source autopilot for VS Code and JetBrains with strong code generation and ownership features.
-
-- **[LangGraph](https://github.com/langchain-ai/langgraph)**  
-  Framework for building stateful AI agents that can generate and iterate on full applications.
-
-- **[CrewAI](https://github.com/crewAIInc/crewAI)**  
-  Multi-agent orchestration framework for collaborative app building with full code output.
-
-- **[Dify](https://github.com/langgenius/dify)**  
+- **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
   Open-source AI application development platform with visual builder and full code export.
 
-- **[Langflow](https://github.com/langflow-ai/langflow)**  
+- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** [![Stars](https://img.shields.io/github/stars/OpenDevin/OpenDevin?style=social&color=white)](https://github.com/OpenDevin/OpenDevin/stargazers)  
+  Open-source autonomous AI software engineer capable of building full applications from natural language with complete code ownership.
+
+- **[Langflow](https://github.com/langflow-ai/langflow)** [![Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
   Visual development environment for building AI applications with complete code ownership.
+
+- **[Aider](https://github.com/paul-gauthier/aider)** [![Stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social&color=white)](https://github.com/paul-gauthier/aider/stargazers)  
+  Command-line AI coding assistant that works with local codebases and gives full ownership of generated code.
+
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+  Multi-agent orchestration framework for collaborative app building with full code output.
+
+- **[Continue](https://github.com/continuedev/continue)** [![Stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
+  Open-source autopilot for VS Code and JetBrains with strong code generation and ownership features.
+
+- **[Phidata](https://github.com/phidatahq/phidata)** [![Stars](https://img.shields.io/github/stars/phidatahq/phidata?style=social&color=white)](https://github.com/phidatahq/phidata/stargazers)  
+  Framework for building production AI agents with full code generation capabilities.
+
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+  Framework for building stateful AI agents that can generate and iterate on full applications.
 
 - **[v0 Open Alternatives](https://github.com/search?q=v0+clone+open+source)**  
   Community-driven open-source versions of AI UI/code generators.
 
-- **[Phidata](https://github.com/phidatahq/phidata)**  
-  Framework for building production AI agents with full code generation capabilities.
-
-- **[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** (and modern forks)  
-  Autonomous AI agent framework for building applications with complete code ownership.
-
 ### Additional Strong Open-Source Options
 
-- **[Devon](https://github.com/continuedev/devon)** — Autonomous coding agent with full project generation.
-- **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)** — Agent for software engineering tasks with code ownership.
-- **[MetaGPT](https://github.com/geekan/MetaGPT)** — Multi-agent framework simulating software companies.
+- **[MetaGPT](https://github.com/geekan/MetaGPT)** [![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers) — Multi-agent framework simulating software companies.
+- **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)** [![Stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social&color=white)](https://github.com/princeton-nlp/SWE-agent/stargazers) — Agent for software engineering tasks with code ownership.
+- **[Devon](https://github.com/continuedev/devon)** [![Stars](https://img.shields.io/github/stars/continuedev/devon?style=social&color=white)](https://github.com/continuedev/devon/stargazers) — Autonomous coding agent with full project generation.
 - **[Ollama + Continue** integrations for local AI app building.
 - Many community **Next.js + AI** generators with full code export.
 
