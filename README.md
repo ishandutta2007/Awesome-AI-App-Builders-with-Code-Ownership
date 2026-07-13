@@ -4,7 +4,7 @@
   <img src="./assets/banner.svg" alt="Awesome AI App Builders Banner" width="100%" />
 </div>
 
-## Top AI App Builders with Code Ownership Ecosystem
+## 🌟 Top AI App Builders with Code Ownership Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on AI-Powered App Development with Full Code Ownership*  
@@ -18,15 +18,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📚 Table of Contents
 - [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS Products
+## ☁️ SaaS Products
 
-### Core Platforms (AI App Builders with Code Ownership)
+### 🏢 Core Platforms (AI App Builders with Code Ownership)
 
 | Platform | Description | Pricing | Free Tier Limit | Valuation/Size |
 | :--- | :--- | :--- | :--- | :--- |
@@ -36,13 +36,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Fabricate](https://fabricate.dev/)** | Intelligent AI platform for building production-ready apps with developer ownership. | Paid plans based on credits (Pro, Scale) | 60 credits/mo | Early Stage |
 | **[Base44](https://base44.com/)** | AI app builder focused on clean, exportable code for web and mobile applications. | Starter: $20/mo, Builder: $50/mo, Pro: $100/mo, Elite: $200/mo | 25 message credits/mo | Early Stage |
 
-### Advanced & Specialized Platforms
+### 🔬 Advanced & Specialized Platforms
 
 **Other notable mentions**: Cursor, v0 by Vercel, and various AI coding assistants with code export.
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
-### Dedicated AI App Builder Projects
+### 🛠️ Dedicated AI App Builder Projects
 
 - **[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social&color=white)](https://github.com/Significant-Gravitas/Auto-GPT/stargazers) (and modern forks)  
   Autonomous AI agent framework for building applications with complete code ownership.
@@ -74,7 +74,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[v0 Open Alternatives](https://github.com/search?q=v0+clone+open+source)**  
   Community-driven open-source versions of AI UI/code generators.
 
-### Additional Strong Open-Source Options
+### 🚀 Additional Strong Open-Source Options
 
 - **[MetaGPT](https://github.com/geekan/MetaGPT)** [![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers) — Multi-agent framework simulating software companies.
 - **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)** [![Stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social&color=white)](https://github.com/princeton-nlp/SWE-agent/stargazers) — Agent for software engineering tasks with code ownership.
@@ -84,7 +84,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom builders**: Combine **OpenDevin**, **Aider**, **Continue**, and **LangGraph** with **Ollama** to create fully local AI app builders with complete code ownership.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -93,7 +93,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - AI-generated code should always be reviewed for security, performance, and correctness.
