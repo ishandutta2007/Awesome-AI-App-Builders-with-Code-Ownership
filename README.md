@@ -77,7 +77,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[LangGraph](https://github.com/langchain-ai/langgraph)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
   Framework for building stateful AI agents that can generate and iterate on full applications.
 
-- **[v0 Open Alternatives](https://github.com/search?q=v0+clone+open+source)**  
+- **[v0.diy](https://github.com/SujalXplores/v0.diy)** [![Stars](https://img.shields.io/github/stars/SujalXplores/v0.diy?style=social&color=white)](https://github.com/SujalXplores/v0.diy/stargazers)  
   Community-driven open-source versions of AI UI/code generators.
 
 ### 🚀 Additional Strong Open-Source Options
