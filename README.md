@@ -39,9 +39,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Replit](https://replit.com/)** | Collaborative coding platform with strong AI features and full code ownership. | Core: $20/mo, Pro: $100/mo | Online IDE & daily allowance of Agent credits | $9B |
 | **[Lovable](https://lovable.dev/)** | AI app builder that generates full applications with complete code ownership and export options. | Pro: $25/mo, Business: $50/mo, Enterprise: Custom | 5 build credits/day (30/mo) & 20 Cloud credits/mo | $6.6B |
 | **[Bolt.new](https://bolt.new/)** | Fast AI-powered app creation tool with full code access and deployment flexibility. | Pro: ~$25/mo, Teams: ~$30/user/mo, Enterprise: Custom | 1M tokens/mo (300K daily limit) | $700M |
-| **[Fabricate](https://fabricate.dev/)** | Intelligent AI platform for building production-ready apps with developer ownership. | Paid plans based on credits (Pro, Scale) | 60 credits/mo | Early Stage |
-| **[Base44](https://base44.com/)** | AI app builder focused on clean, exportable code for web and mobile applications. | Starter: $20/mo, Builder: $50/mo, Pro: $100/mo, Elite: $200/mo | 25 message credits/mo | Early Stage |
-| **[VibeKit.bot](https://vibekit.bot/)** | Phone-first AI app builder. Each app runs a hosted coding agent on a live subdomain, with its code in a standard GitHub repo (clone/fork/push, fully exportable). BYOK Anthropic/OpenAI. Native iOS app. | Credits (PAYG) + Builder/Pro subscriptions | Always-free model tier + $1 signup credit | Early Stage |
+| **[Fabricate](https://fabricate.build/)** | Intelligent AI platform for building production-ready apps with developer ownership. | Paid plans based on credits (Pro, Scale) | 60 credits/mo | Bootstrapped |
+| **[Base44](https://base44.com/)** | AI app builder focused on clean, exportable code for web and mobile applications. | Starter: $20/mo, Builder: $50/mo, Pro: $100/mo, Elite: $200/mo | 25 message credits/mo | $80M (Acquired by Wix) |
+| **[VibeKit.bot](https://vibekit.bot/)** | Phone-first AI app builder. Each app runs a hosted coding agent on a live subdomain, with its code in a standard GitHub repo (clone/fork/push, fully exportable). BYOK Anthropic/OpenAI. Native iOS app. | Credits (PAYG) + Builder/Pro subscriptions | Always-free model tier + $1 signup credit | Bootstrapped |
 
 ### 🔬 Advanced & Specialized Platforms
 
