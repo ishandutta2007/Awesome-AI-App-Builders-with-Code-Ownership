@@ -61,8 +61,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
   Open-source AI application development platform with visual builder and full code export.
 
-- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** [![Stars](https://img.shields.io/github/stars/OpenDevin/OpenDevin?style=social&color=white)](https://github.com/OpenDevin/OpenDevin/stargazers)  
+- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers)  
   Open-source autonomous AI software engineer capable of building full applications from natural language with complete code ownership.
+
+- **[GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)** [![Stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social&color=white)](https://github.com/Pythagora-io/gpt-pilot/stargazers)  
+  AI developer agent that builds full-stack applications step-by-step with interactive human feedback.
+
+- **[Plandex](https://github.com/plandex-ai/plandex)** [![Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social&color=white)](https://github.com/plandex-ai/plandex/stargazers)  
+  Terminal-based open-source AI coding engine for managing complex development tasks across multiple files.
+
+- **[ChatDev](https://github.com/OpenBMB/ChatDev)** [![Stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers)  
+  Multi-agent software development framework acting as a virtual software development company.
+
+- **[Wasp](https://github.com/wasp-lang/wasp)** [![Stars](https://img.shields.io/github/stars/wasp-lang/wasp?style=social&color=white)](https://github.com/wasp-lang/wasp/stargazers)  
+  Declarative, full-stack framework with built-in Wasp AI (Mage) app generator for React, Node.js, and Prisma.
 
 - **[Langflow](https://github.com/langflow-ai/langflow)** [![Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
   Visual development environment for building AI applications with complete code ownership.
@@ -89,11 +101,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - **[MetaGPT](https://github.com/geekan/MetaGPT)** [![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers) — Multi-agent framework simulating software companies.
 - **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)** [![Stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social&color=white)](https://github.com/princeton-nlp/SWE-agent/stargazers) — Agent for software engineering tasks with code ownership.
+- **[CopilotKit](https://github.com/CopilotKit/CopilotKit)** [![Stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social&color=white)](https://github.com/CopilotKit/CopilotKit/stargazers) — Open-source framework for building in-app AI copilots and agents.
+- **[OpenGPTs](https://github.com/langchain-ai/opengpts)** [![Stars](https://img.shields.io/github/stars/langchain-ai/opengpts?style=social&color=white)](https://github.com/langchain-ai/opengpts/stargazers) — LangChain's open-source alternative to OpenAI's GPTs.
 - **[Devon](https://github.com/continuedev/devon)** [![Stars](https://img.shields.io/github/stars/continuedev/devon?style=social&color=white)](https://github.com/continuedev/devon/stargazers) — Autonomous coding agent with full project generation.
 - **[Ollama + Continue** integrations for local AI app building.
 - Many community **Next.js + AI** generators with full code export.
 
-**Frameworks for building custom builders**: Combine **OpenDevin**, **Aider**, **Continue**, and **LangGraph** with **Ollama** to create fully local AI app builders with complete code ownership.
+**Frameworks for building custom builders**: Combine **OpenHands**, **Aider**, **Continue**, and **LangGraph** with **Ollama** to create fully local AI app builders with complete code ownership.
 
 ## 🤝 How to Contribute
 
