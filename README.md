@@ -42,10 +42,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Fabricate](https://fabricate.build/)** | Intelligent AI platform for building production-ready apps with developer ownership. | Paid plans based on credits (Pro, Scale) | 60 credits/mo | Bootstrapped |
 | **[Base44](https://base44.com/)** | AI app builder focused on clean, exportable code for web and mobile applications. | Starter: $20/mo, Builder: $50/mo, Pro: $100/mo, Elite: $200/mo | 25 message credits/mo | $80M (Acquired by Wix) |
 | **[VibeKit.bot](https://vibekit.bot/)** | Phone-first AI app builder. Each app runs a hosted coding agent on a live subdomain, with its code in a standard GitHub repo (clone/fork/push, fully exportable). BYOK Anthropic/OpenAI. Native iOS app. | Credits (PAYG) + Builder/Pro subscriptions | Always-free model tier + $1 signup credit | Bootstrapped |
+| **[FlutterFlow](https://flutterflow.io/)** | High-fidelity cross-platform mobile and web builder with full Flutter code export. | Basic: $39/mo, Growth: $80/mo, Business: $150/mo | 2 projects, visual builder, Firebase/Supabase integration | $170M |
+| **[Marblism](https://marblism.com/)** | AI app builder generating full-stack React/Node.js codebases from text prompts. | Starter: $24/mo, Growth: $44/mo | No free tier (paid subscription only) | $2M - $4M (Estimated) |
+| **[Pythagora](https://pythagora.ai/)** | AI developer assistant that builds complete software applications step-by-step. | Pro: ~$25/mo | Free trial / limited free usage | $4M Funding |
+| **[v0 by Vercel](https://v0.dev/)** | Generates production-ready React/Tailwind UI components and full pages with GitHub/code export. | Premium: $20/mo | 200 credits/mo | Part of Vercel ($2.5B) |
 
 ### 🔬 Advanced & Specialized Platforms
 
-**Other notable mentions**: Cursor, v0 by Vercel, and various AI coding assistants with code export.
+**Other notable mentions**: Cursor, Windsurf, Claude Code, and various AI coding assistants with code export.
 
 ## 🔓 Open-Source GitHub Projects
 
