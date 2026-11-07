@@ -46,6 +46,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Marblism](https://marblism.com/)** | AI app builder generating full-stack React/Node.js codebases from text prompts. | Starter: $24/mo, Growth: $44/mo | No free tier (paid subscription only) | $2M - $4M (Estimated) |
 | **[Fabricate](https://fabricate.build/)** | Intelligent AI platform for building production-ready apps with developer ownership. | Paid plans based on credits (Pro, Scale) | 60 credits/mo | Bootstrapped |
 | **[VibeKit.bot](https://vibekit.bot/)** | Phone-first AI app builder. Each app runs a hosted coding agent on a live subdomain, with its code in a standard GitHub repo (clone/fork/push, fully exportable). BYOK Anthropic/OpenAI. Native iOS app. | Credits (PAYG) + Builder/Pro subscriptions | Always-free model tier + $1 signup credit | Bootstrapped |
+| **[SPOE](https://spoe.ai/)** | Private AI app builder for full-stack Next.js, Fastify and Postgres apps on Venice's private models. A second model reviews every change, and every export is signed (Ed25519) and runs with docker compose up, with no SPOE dependency. | Credit packs from A$19, no subscription; the first payment unlocks export permanently | 50 credits on sign-up, daily top-up to 30 | Bootstrapped |
 
 ### 🔬 Advanced & Specialized Platforms
 
